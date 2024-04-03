@@ -9,3 +9,6 @@
 library(here)
 library(tidyverse)
 library(tidycensus)
+
+install.packages(c("tmap", "tidycensus", "tigris"))
+
